@@ -8,7 +8,7 @@ class person:
         print("My age is " + self.age)
         print("Country I live in " + self.country)
 p1= person("Palak", "27", "India")
-p2= person("Eric", "30", "US")
+p2= person("Eric", "30", "Europe")
 p1.self_introduction()
 p2.self_introduction()
 # Without Calling Function
