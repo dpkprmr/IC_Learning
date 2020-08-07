@@ -4,6 +4,7 @@ server = 'x.x.x.'
 database = 'DB_Name'
 username = 'XXXX'
 password = 'XXXX'
+print("X")
 
 
 conn = pyodbc.connect(
