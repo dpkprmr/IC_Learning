@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="drive Suite" annotations="JDK" parallel="tests">
+<parameter name="user" value="agupta_a@davizta.com" />
+<parameter name="password" value="Admin@1234" />
+  <test name="drive1">
+     <groups>		
+       <run>		
+        <include name="Akash" />		
+       </run>		
+     </groups>
+    <classes>
+       <class name="firstpackage.firstTestNGfile"/>
+        </classes>
+       </test>
+       
+  <test name="drive2">
+      <groups>		
+        <run>		
+          <include name="Akash" />		
+        </run>		
+      </groups>
+    <classes>
+      <class name="secondPackage.secondtestNGfile"/>
+    </classes>
+    </test>
+</suite> <!-- Default suite -->
