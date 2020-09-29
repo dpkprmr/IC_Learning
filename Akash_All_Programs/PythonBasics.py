@@ -48,6 +48,8 @@ print(Coordinates)
 Coordinates.append((3,7))
 print(Coordinates)
 
+print('Changes')
+
 # Tuple
 print("------------------------TUPLE STARTING FROM HERE------------------------")
 tuple = ('Learn Python', 'In', 15, 'Days')
