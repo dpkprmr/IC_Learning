@@ -49,6 +49,8 @@ Coordinates.append((3,7))
 print(Coordinates)
 
 print('Changes')
+print('Chnages2')
+print('Change3')
 
 # Tuple
 print("------------------------TUPLE STARTING FROM HERE------------------------")
