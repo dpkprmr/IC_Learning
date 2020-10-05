@@ -79,7 +79,7 @@ public class TestNGAutomation   {
 	
 		driver.manage().window().maximize();
 		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		system.out.println("hello Akash 2");
+		system.out.println("Hello Akash 3");
 			}
 	
 
