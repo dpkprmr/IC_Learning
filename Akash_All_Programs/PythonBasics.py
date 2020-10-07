@@ -39,7 +39,7 @@ print(Task[1:3])
 print(Task*2)
 print(Task+Task2)
 print('Akash Changes')
-print('Chnages and Changes')
+print('I am changed now')
 
 #tuple inside a List
 Games = [('Criket', 'Football', 'Basketball'), ('2011', '2010', '2008')]
